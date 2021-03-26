@@ -10,6 +10,7 @@
 * [Video Conferencing](#video-conferencing)
 * [Search Engine](#search-engine)
 * [Browser](#browser)
+* [Analytics](#analytics)
 * [VPN](#vpn)
 * [OS](#os)
 
@@ -52,6 +53,10 @@
 
 * [Brave](https://brave.com/) - Is fast, secure, and privacy-focused by default with a built-in ad blocker.
 * [Tor](https://www.torproject.org/) - Defend yourself against tracking and surveillance. Circumvent censorship.
+
+### Analytics
+
+* [Plausible](https://plausible.io/) - Simple and privacy-friendly alternative to Google Analytics.
 
 ### VPN 
 
