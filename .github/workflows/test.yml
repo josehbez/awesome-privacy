@@ -26,4 +26,4 @@ jobs:
         pip install beautifulsoup4 markdown
     - name: Run Test
       run: |
-        pytest
+        python -m unittest discover
