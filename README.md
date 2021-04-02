@@ -9,6 +9,7 @@
 * [Messaging](#messaging)
 * [Notes](#notes)
 * [OS](#os)
+* [Password Manager](#password-manager)
 * [Search Engine](#search-engine)
 * [Task Management](#task-management)
 * [VPN](#vpn)
@@ -50,12 +51,17 @@
 * [Bear](https://bear.app/) - Flexible writing app for crafting notes and prose.
 * [EteSync](https://www.etesync.com/) - Secure, end-to-end encrypted, and privacy respecting sync for your contacts, calendars, tasks and notes.
 * [Joplin](https://joplinapp.org/) - Open source note taking app that supports end to end encrypted sync wth cloud providers.
+* [Notesnook](https://notesnook.com/) - A simple and private note taking app.
 * [Standard Notes](https://standardnotes.org/) -  Is a safe place for your notes, thoughts, and life's work.
 
 ### OS
 
 * [Tails](https://tails.boum.org/) - Portable operating system that protects against surveillance and censorship.
 * [Whonix](https://www.whonix.org/) - Hardened fork of Debian, with strong privacy and anti-tracking features.
+
+### Password Manager
+
+* [KeePassXC](https://keepassxc.org/) - Securely store passwords using industry standard  256-bit AES encryption
 
 ### Search Engine
 
