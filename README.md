@@ -29,6 +29,7 @@
 
 * [Mega](https://mega.nz/) - End-to-end encrypted cloud storage and cloud collaboration platform.
 * [Nextcloud](https://nextcloud.com) - A self hosted cloud collaboration platform that supports file syncing, team chat, and Voice over IP.
+* [OnionShare](https://onionshare.org/) - Tool that lets you securely and anonymously share files, host websites, and chat with friends using the Tor network.
 * [SafeRequest](https://saferequest.net/en) - Safely receive files only you can open.
 * [Sia](https://sia.tech) - An encrypted and decentralized storage platform and marketplace, where files are stored as redundant segments spread out across multiple provider nodes. 
 * [Tresorit](https://tresorit.com) - End-to-end encrypted  cloud storage service.
