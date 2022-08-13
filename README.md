@@ -1,3 +1,15 @@
+<p align="center">  
+  <a href="https://github.com/josehbez/awesome-privacy">
+    <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/josehbez/awesome-privacy?style=social"/>
+  </a>
+  <a>
+   <img alt="GitHub" src="https://img.shields.io/github/license/josehbez/awesome-privacy"/>
+   </a>
+   <a>
+     <img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/josehbez/awesome-privacy/main"/>
+  </a>
+</p>
+
 # Awesome Internet Privacy
 
 ## Table of Contents
