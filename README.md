@@ -26,6 +26,7 @@
 * [Task Management](#task-management)
 * [VPN](#vpn)
 * [Video Conferencing](#video-conferencing)
+* [Expense Management](#expense-management)
 
 ### Analytics
 
@@ -75,6 +76,7 @@
 ### Password Manager
 
 * [KeePassXC](https://keepassxc.org/) - Securely store passwords using industry standard  256-bit AES encryption
+* [Padloc](https://padloc.app/) - Open source, end-to-end encrypted password manager.
 
 ### Search Engine
 
@@ -93,3 +95,7 @@
 ### Video Conferencing
 
 * [Jitsi](https://jitsi.org/) -  A free open-source video conferencing software for web & mobile.
+
+### Expense Management
+
+* [Budget Zen](https://budgetzen.net) - Simple and end-to-end encrypted budget and expense management (also open source).
